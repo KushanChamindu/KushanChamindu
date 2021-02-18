@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently an undergraduate of Computer Science and Engineering Department, University of Moratuwa
+- 🔭 I’m Software Engineering Intern at VizuaMatix
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kushannilanga/)
+
