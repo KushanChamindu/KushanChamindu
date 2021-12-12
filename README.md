@@ -38,3 +38,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushanChamindu&layout=compact&theme=dracula&langs_count=10)](https://github.com/KushanChamindu/github-readme-stats)
 
+<h2 align="center">🔥 Github Streaks 🔥</h2>
+<div align=center>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=KushanChamindu&theme=merko&hide_border=true" alt="zumrudu-anka"
+</div>
+
