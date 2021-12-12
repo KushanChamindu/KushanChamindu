@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m Formaer Software Engineering Intern at VizuaMatix
 - 📫 How to reach me: **kushanchamindu.17@cse.mrt.ac.lk**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushanchamindu&label=Profile%20views&color=0e75b6&style=flat" alt="kushanchamindu" /> 
-<img src="https://img.shields.io/github/followers/anjuchamantha?label=follow&style=social" alt="Follows" /> 
+<img src="https://img.shields.io/github/followers/KushanChamindu?label=follow&style=social" alt="Follows" /> 
 </p>
 
 
