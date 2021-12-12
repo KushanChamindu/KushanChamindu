@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m Software Engineering Intern at VizuaMatix
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kushannilanga/)
 
+## My Github Stats 🏆
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushanChamindu&layout=compact&theme=dracula&langs_count=10)](https://github.com/KushanChamindu/github-readme-stats) ![Kushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KushanChamindu&show_icons=true&theme=dracula&include_all_commits=true&line_height=28&custom_title=GitHub-Stats&count_private=true)
